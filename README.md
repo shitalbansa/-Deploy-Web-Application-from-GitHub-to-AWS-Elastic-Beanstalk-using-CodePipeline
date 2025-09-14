@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/1a2e8a19-30cf-447f-bbfc-c0d92663fbd8" />Deploy Web Application from GitHub to AWS Elastic Beanstalk using CodePipeline
+Deploy Web Application from GitHub to AWS Elastic Beanstalk using CodePipeline
 This repository demonstrates how to set up an automated deployment pipeline where a web application is deployed from GitHub to AWS Elastic Beanstalk using AWS CodePipeline.
 
 📌 Overview
